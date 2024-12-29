@@ -1,2 +1,1 @@
-['https://invidious.nietzospanned.nl','https://invidious.0011.lt','https://invidious.baczek.me','https://rust.oskamp.nl','https://youtube.lurkmore.com'
-]
+["https://invidious.nietzospanned.nl","https://invidious.0011.lt","https://invidious.baczek.me","https://rust.oskamp.nl","https://youtube.lurkmore.com"]
