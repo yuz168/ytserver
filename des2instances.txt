@@ -1,1 +1,1 @@
-"hytps://rust.oskamp.nl"
+"https://rust.oskamp.nl"
