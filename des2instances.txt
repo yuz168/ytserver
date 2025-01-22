@@ -1,1 +1,1 @@
-"https://invidious.0011.lt"
+["https://invidious.0011.lt"]
