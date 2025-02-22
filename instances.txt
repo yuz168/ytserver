@@ -1,1 +1,1 @@
-["https://pol1.iv.ggtyler.dev","https://nyc1.iv.ggtyler.dev","https://cal1.iv.ggtyler.dev","https://inv.owo.si","https://invidious.f5.si",https://eu-proxy.poketube.fun","https://invid-api.poketube.fun","https://id.420129.xyz","https://iv.melmac.space","https://lekker.gay","https://invidious.f5.si","https://invidious.schenkel.eti.br"]
+["https://inv.owo.si"]
